@@ -1,6 +1,4 @@
-Here is the full `README.md` containing the exception handling methods in a Spring Boot application, along with some explanations:
 
-```markdown
 # Spring Boot Exception Handling Guide
 
 In a Spring Boot application, exception handling is crucial for creating a robust and maintainable system. The following methods can be used to handle exceptions effectively:
